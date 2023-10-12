@@ -143,6 +143,7 @@ if window_info is not None:
 else:
     print("Window not found.")
 
+
 while True:
     print("Starting in 5s")
     time.sleep(5)
